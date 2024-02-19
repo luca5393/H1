@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\bin\Debug\net8.0\Divisible by 2 or 3.exe
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\bin\Debug\net8.0\Divisible by 2 or 3.deps.json
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\bin\Debug\net8.0\Divisible by 2 or 3.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\bin\Debug\net8.0\Divisible by 2 or 3.dll
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\bin\Debug\net8.0\Divisible by 2 or 3.pdb
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\Divisible by 2 or 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\Divisible by 2 or 3.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\Divisible by 2 or 3.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\Divisible by 2 or 3.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\Divisible by 2 or 3.dll
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\refint\Divisible by 2 or 3.dll
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\Divisible by 2 or 3.pdb
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\Divisible by 2 or 3.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Divisible by 2 or 3\obj\Debug\net8.0\ref\Divisible by 2 or 3.dll

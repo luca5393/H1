@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\bin\Debug\net8.0\Three increasing adjacent.exe
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\bin\Debug\net8.0\Three increasing adjacent.deps.json
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\bin\Debug\net8.0\Three increasing adjacent.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\bin\Debug\net8.0\Three increasing adjacent.dll
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\bin\Debug\net8.0\Three increasing adjacent.pdb
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\Three increasing adjacent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\Three increasing adjacent.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\Three increasing adjacent.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\Three increasing adjacent.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\Three increasing adjacent.dll
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\refint\Three increasing adjacent.dll
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\Three increasing adjacent.pdb
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\Three increasing adjacent.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Three increasing adjacent\obj\Debug\net8.0\ref\Three increasing adjacent.dll

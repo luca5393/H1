@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Sum and average\bin\Debug\net8.0\Sum and average.exe
+C:\Users\HFGF\source\repos\into\Sum and average\bin\Debug\net8.0\Sum and average.deps.json
+C:\Users\HFGF\source\repos\into\Sum and average\bin\Debug\net8.0\Sum and average.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Sum and average\bin\Debug\net8.0\Sum and average.dll
+C:\Users\HFGF\source\repos\into\Sum and average\bin\Debug\net8.0\Sum and average.pdb
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\Sum and average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\Sum and average.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\Sum and average.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\Sum and average.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\Sum and average.dll
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\refint\Sum and average.dll
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\Sum and average.pdb
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\Sum and average.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Sum and average\obj\Debug\net8.0\ref\Sum and average.dll

@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\bin\Debug\net8.0\Sieve of Eratosthenes.exe
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\bin\Debug\net8.0\Sieve of Eratosthenes.deps.json
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\bin\Debug\net8.0\Sieve of Eratosthenes.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\bin\Debug\net8.0\Sieve of Eratosthenes.dll
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\bin\Debug\net8.0\Sieve of Eratosthenes.pdb
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\Sieve of Eratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\Sieve of Eratosthenes.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\Sieve of Eratosthenes.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\Sieve of Eratosthenes.dll
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\refint\Sieve of Eratosthenes.dll
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\Sieve of Eratosthenes.pdb
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\Sieve of Eratosthenes.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Sieve of Eratosthenes\obj\Debug\net8.0\ref\Sieve of Eratosthenes.dll

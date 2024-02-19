@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\bin\Debug\net8.0\Full sequence of letters M.exe
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\bin\Debug\net8.0\Full sequence of letters M.deps.json
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\bin\Debug\net8.0\Full sequence of letters M.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\bin\Debug\net8.0\Full sequence of letters M.dll
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\bin\Debug\net8.0\Full sequence of letters M.pdb
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\Full sequence of letters M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\Full sequence of letters M.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\Full sequence of letters M.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\Full sequence of letters M.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\Full sequence of letters M.dll
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\refint\Full sequence of letters M.dll
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\Full sequence of letters M.pdb
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\Full sequence of letters M.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Full sequence of letters M\obj\Debug\net8.0\ref\Full sequence of letters M.dll

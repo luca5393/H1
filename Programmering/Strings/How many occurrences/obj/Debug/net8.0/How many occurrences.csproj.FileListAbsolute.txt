@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\How many occurrences\bin\Debug\net8.0\How many occurrences.exe
+C:\Users\HFGF\source\repos\into\How many occurrences\bin\Debug\net8.0\How many occurrences.deps.json
+C:\Users\HFGF\source\repos\into\How many occurrences\bin\Debug\net8.0\How many occurrences.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\How many occurrences\bin\Debug\net8.0\How many occurrences.dll
+C:\Users\HFGF\source\repos\into\How many occurrences\bin\Debug\net8.0\How many occurrences.pdb
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\How many occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\How many occurrences.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\How many occurrences.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\How many occurrences.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\How many occurrences.dll
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\refint\How many occurrences.dll
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\How many occurrences.pdb
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\How many occurrences.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\How many occurrences\obj\Debug\net8.0\ref\How many occurrences.dll

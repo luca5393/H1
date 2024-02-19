@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\bin\Debug\net8.0\Two 7s next to each other.exe
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\bin\Debug\net8.0\Two 7s next to each other.deps.json
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\bin\Debug\net8.0\Two 7s next to each other.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\bin\Debug\net8.0\Two 7s next to each other.dll
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\bin\Debug\net8.0\Two 7s next to each other.pdb
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\Two 7s next to each other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\Two 7s next to each other.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\Two 7s next to each other.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\Two 7s next to each other.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\Two 7s next to each other.dll
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\refint\Two 7s next to each other.dll
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\Two 7s next to each other.pdb
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\Two 7s next to each other.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Two 7s next to each other\obj\Debug\net8.0\ref\Two 7s next to each other.dll

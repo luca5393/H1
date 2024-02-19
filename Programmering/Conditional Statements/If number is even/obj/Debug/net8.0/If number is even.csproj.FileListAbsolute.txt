@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\If number is even\bin\Debug\net8.0\If number is even.exe
+C:\Users\HFGF\source\repos\into\If number is even\bin\Debug\net8.0\If number is even.deps.json
+C:\Users\HFGF\source\repos\into\If number is even\bin\Debug\net8.0\If number is even.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\If number is even\bin\Debug\net8.0\If number is even.dll
+C:\Users\HFGF\source\repos\into\If number is even\bin\Debug\net8.0\If number is even.pdb
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\If number is even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\If number is even.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\If number is even.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\If number is even.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\If number is even.dll
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\refint\If number is even.dll
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\If number is even.pdb
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\If number is even.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\If number is even\obj\Debug\net8.0\ref\If number is even.dll

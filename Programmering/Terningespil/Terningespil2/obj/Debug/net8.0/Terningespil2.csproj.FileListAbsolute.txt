@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Terningespil2\bin\Debug\net8.0\Terningespil2.exe
+C:\Users\HFGF\source\repos\into\Terningespil2\bin\Debug\net8.0\Terningespil2.deps.json
+C:\Users\HFGF\source\repos\into\Terningespil2\bin\Debug\net8.0\Terningespil2.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Terningespil2\bin\Debug\net8.0\Terningespil2.dll
+C:\Users\HFGF\source\repos\into\Terningespil2\bin\Debug\net8.0\Terningespil2.pdb
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\Terningespil2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\Terningespil2.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\Terningespil2.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\Terningespil2.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\Terningespil2.dll
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\refint\Terningespil2.dll
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\Terningespil2.pdb
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\Terningespil2.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Terningespil2\obj\Debug\net8.0\ref\Terningespil2.dll

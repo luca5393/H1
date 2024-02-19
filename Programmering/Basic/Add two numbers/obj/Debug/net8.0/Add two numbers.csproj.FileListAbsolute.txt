@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Add two numbers\bin\Debug\net8.0\Add two numbers.exe
+C:\Users\HFGF\source\repos\into\Add two numbers\bin\Debug\net8.0\Add two numbers.deps.json
+C:\Users\HFGF\source\repos\into\Add two numbers\bin\Debug\net8.0\Add two numbers.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Add two numbers\bin\Debug\net8.0\Add two numbers.dll
+C:\Users\HFGF\source\repos\into\Add two numbers\bin\Debug\net8.0\Add two numbers.pdb
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\Add two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\Add two numbers.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\Add two numbers.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\Add two numbers.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\Add two numbers.dll
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\refint\Add two numbers.dll
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\Add two numbers.pdb
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\Add two numbers.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Add two numbers\obj\Debug\net8.0\ref\Add two numbers.dll

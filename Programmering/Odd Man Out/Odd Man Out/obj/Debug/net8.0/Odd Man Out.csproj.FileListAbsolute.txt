@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Odd Man Out\bin\Debug\net8.0\Odd Man Out.exe
+C:\Users\HFGF\source\repos\into\Odd Man Out\bin\Debug\net8.0\Odd Man Out.deps.json
+C:\Users\HFGF\source\repos\into\Odd Man Out\bin\Debug\net8.0\Odd Man Out.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Odd Man Out\bin\Debug\net8.0\Odd Man Out.dll
+C:\Users\HFGF\source\repos\into\Odd Man Out\bin\Debug\net8.0\Odd Man Out.pdb
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\Odd Man Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\Odd Man Out.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\Odd Man Out.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\Odd Man Out.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\Odd Man Out.dll
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\refint\Odd Man Out.dll
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\Odd Man Out.pdb
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\Odd Man Out.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Odd Man Out\obj\Debug\net8.0\ref\Odd Man Out.dll

@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\String in reverse order\bin\Debug\net8.0\String in reverse order.exe
+C:\Users\HFGF\source\repos\into\String in reverse order\bin\Debug\net8.0\String in reverse order.deps.json
+C:\Users\HFGF\source\repos\into\String in reverse order\bin\Debug\net8.0\String in reverse order.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\String in reverse order\bin\Debug\net8.0\String in reverse order.dll
+C:\Users\HFGF\source\repos\into\String in reverse order\bin\Debug\net8.0\String in reverse order.pdb
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\String in reverse order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\String in reverse order.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\String in reverse order.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\String in reverse order.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\String in reverse order.dll
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\refint\String in reverse order.dll
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\String in reverse order.pdb
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\String in reverse order.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\String in reverse order\obj\Debug\net8.0\ref\String in reverse order.dll

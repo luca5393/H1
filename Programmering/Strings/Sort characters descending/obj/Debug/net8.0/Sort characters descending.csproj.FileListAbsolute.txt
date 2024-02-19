@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Sort characters descending\bin\Debug\net8.0\Sort characters descending.exe
+C:\Users\HFGF\source\repos\into\Sort characters descending\bin\Debug\net8.0\Sort characters descending.deps.json
+C:\Users\HFGF\source\repos\into\Sort characters descending\bin\Debug\net8.0\Sort characters descending.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Sort characters descending\bin\Debug\net8.0\Sort characters descending.dll
+C:\Users\HFGF\source\repos\into\Sort characters descending\bin\Debug\net8.0\Sort characters descending.pdb
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\Sort characters descending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\Sort characters descending.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\Sort characters descending.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\Sort characters descending.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\Sort characters descending.dll
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\refint\Sort characters descending.dll
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\Sort characters descending.pdb
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\Sort characters descending.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Sort characters descending\obj\Debug\net8.0\ref\Sort characters descending.dll

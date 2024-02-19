@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\If greater than third one\bin\Debug\net8.0\If greater than third one.exe
+C:\Users\HFGF\source\repos\into\If greater than third one\bin\Debug\net8.0\If greater than third one.deps.json
+C:\Users\HFGF\source\repos\into\If greater than third one\bin\Debug\net8.0\If greater than third one.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\If greater than third one\bin\Debug\net8.0\If greater than third one.dll
+C:\Users\HFGF\source\repos\into\If greater than third one\bin\Debug\net8.0\If greater than third one.pdb
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\If greater than third one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\If greater than third one.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\If greater than third one.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\If greater than third one.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\If greater than third one.dll
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\refint\If greater than third one.dll
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\If greater than third one.pdb
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\If greater than third one.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\If greater than third one\obj\Debug\net8.0\ref\If greater than third one.dll

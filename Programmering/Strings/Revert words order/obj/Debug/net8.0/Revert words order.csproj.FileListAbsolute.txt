@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Revert words order\bin\Debug\net8.0\Revert words order.exe
+C:\Users\HFGF\source\repos\into\Revert words order\bin\Debug\net8.0\Revert words order.deps.json
+C:\Users\HFGF\source\repos\into\Revert words order\bin\Debug\net8.0\Revert words order.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Revert words order\bin\Debug\net8.0\Revert words order.dll
+C:\Users\HFGF\source\repos\into\Revert words order\bin\Debug\net8.0\Revert words order.pdb
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\Revert words order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\Revert words order.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\Revert words order.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\Revert words order.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\Revert words order.dll
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\refint\Revert words order.dll
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\Revert words order.pdb
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\Revert words order.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Revert words order\obj\Debug\net8.0\ref\Revert words order.dll

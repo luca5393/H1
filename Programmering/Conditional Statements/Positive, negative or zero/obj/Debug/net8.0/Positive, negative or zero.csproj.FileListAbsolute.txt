@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\bin\Debug\net8.0\Positive, negative or zero.exe
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\bin\Debug\net8.0\Positive, negative or zero.deps.json
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\bin\Debug\net8.0\Positive, negative or zero.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\bin\Debug\net8.0\Positive, negative or zero.dll
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\bin\Debug\net8.0\Positive, negative or zero.pdb
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\Positive, negative or zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\Positive, negative or zero.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\Positive, negative or zero.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\Positive, negative or zero.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\Positive, negative or zero.dll
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\refint\Positive, negative or zero.dll
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\Positive, negative or zero.pdb
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\Positive, negative or zero.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Positive, negative or zero\obj\Debug\net8.0\ref\Positive, negative or zero.dll

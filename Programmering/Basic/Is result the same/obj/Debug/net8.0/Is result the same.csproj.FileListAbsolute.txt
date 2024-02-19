@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Is result the same\bin\Debug\net8.0\Is result the same.exe
+C:\Users\HFGF\source\repos\into\Is result the same\bin\Debug\net8.0\Is result the same.deps.json
+C:\Users\HFGF\source\repos\into\Is result the same\bin\Debug\net8.0\Is result the same.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Is result the same\bin\Debug\net8.0\Is result the same.dll
+C:\Users\HFGF\source\repos\into\Is result the same\bin\Debug\net8.0\Is result the same.pdb
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\Is result the same.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\Is result the same.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\Is result the same.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\Is result the same.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\Is result the same.dll
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\refint\Is result the same.dll
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\Is result the same.pdb
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\Is result the same.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Is result the same\obj\Debug\net8.0\ref\Is result the same.dll

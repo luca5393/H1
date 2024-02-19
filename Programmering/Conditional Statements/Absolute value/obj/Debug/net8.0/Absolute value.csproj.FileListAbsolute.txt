@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Absolute value\bin\Debug\net8.0\Absolute value.exe
+C:\Users\HFGF\source\repos\into\Absolute value\bin\Debug\net8.0\Absolute value.deps.json
+C:\Users\HFGF\source\repos\into\Absolute value\bin\Debug\net8.0\Absolute value.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Absolute value\bin\Debug\net8.0\Absolute value.dll
+C:\Users\HFGF\source\repos\into\Absolute value\bin\Debug\net8.0\Absolute value.pdb
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\Absolute value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\Absolute value.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\Absolute value.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\Absolute value.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\Absolute value.dll
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\refint\Absolute value.dll
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\Absolute value.pdb
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\Absolute value.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Absolute value\obj\Debug\net8.0\ref\Absolute value.dll

@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Is palindrome\bin\Debug\net8.0\Is palindrome.exe
+C:\Users\HFGF\source\repos\into\Is palindrome\bin\Debug\net8.0\Is palindrome.deps.json
+C:\Users\HFGF\source\repos\into\Is palindrome\bin\Debug\net8.0\Is palindrome.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Is palindrome\bin\Debug\net8.0\Is palindrome.dll
+C:\Users\HFGF\source\repos\into\Is palindrome\bin\Debug\net8.0\Is palindrome.pdb
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\Is palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\Is palindrome.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\Is palindrome.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\Is palindrome.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\Is palindrome.dll
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\refint\Is palindrome.dll
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\Is palindrome.pdb
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\Is palindrome.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Is palindrome\obj\Debug\net8.0\ref\Is palindrome.dll

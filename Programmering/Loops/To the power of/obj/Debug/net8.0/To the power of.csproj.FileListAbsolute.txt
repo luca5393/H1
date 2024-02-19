@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\To the power of\bin\Debug\net8.0\To the power of.exe
+C:\Users\HFGF\source\repos\into\To the power of\bin\Debug\net8.0\To the power of.deps.json
+C:\Users\HFGF\source\repos\into\To the power of\bin\Debug\net8.0\To the power of.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\To the power of\bin\Debug\net8.0\To the power of.dll
+C:\Users\HFGF\source\repos\into\To the power of\bin\Debug\net8.0\To the power of.pdb
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\To the power of.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\To the power of.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\To the power of.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\To the power of.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\To the power of.dll
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\refint\To the power of.dll
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\To the power of.pdb
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\To the power of.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\To the power of\obj\Debug\net8.0\ref\To the power of.dll

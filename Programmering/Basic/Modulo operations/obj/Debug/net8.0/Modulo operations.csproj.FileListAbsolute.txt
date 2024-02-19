@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Modulo operations\bin\Debug\net8.0\Modulo operations.exe
+C:\Users\HFGF\source\repos\into\Modulo operations\bin\Debug\net8.0\Modulo operations.deps.json
+C:\Users\HFGF\source\repos\into\Modulo operations\bin\Debug\net8.0\Modulo operations.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Modulo operations\bin\Debug\net8.0\Modulo operations.dll
+C:\Users\HFGF\source\repos\into\Modulo operations\bin\Debug\net8.0\Modulo operations.pdb
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\Modulo operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\Modulo operations.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\Modulo operations.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\Modulo operations.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\Modulo operations.dll
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\refint\Modulo operations.dll
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\Modulo operations.pdb
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\Modulo operations.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Modulo operations\obj\Debug\net8.0\ref\Modulo operations.dll

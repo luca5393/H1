@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Add separator\bin\Debug\net8.0\Add separator.exe
+C:\Users\HFGF\source\repos\into\Add separator\bin\Debug\net8.0\Add separator.deps.json
+C:\Users\HFGF\source\repos\into\Add separator\bin\Debug\net8.0\Add separator.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Add separator\bin\Debug\net8.0\Add separator.dll
+C:\Users\HFGF\source\repos\into\Add separator\bin\Debug\net8.0\Add separator.pdb
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\Add separator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\Add separator.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\Add separator.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\Add separator.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\Add separator.dll
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\refint\Add separator.dll
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\Add separator.pdb
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\Add separator.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Add separator\obj\Debug\net8.0\ref\Add separator.dll

@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Length of string\bin\Debug\net8.0\Length of string.exe
+C:\Users\HFGF\source\repos\into\Length of string\bin\Debug\net8.0\Length of string.deps.json
+C:\Users\HFGF\source\repos\into\Length of string\bin\Debug\net8.0\Length of string.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Length of string\bin\Debug\net8.0\Length of string.dll
+C:\Users\HFGF\source\repos\into\Length of string\bin\Debug\net8.0\Length of string.pdb
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\Length of string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\Length of string.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\Length of string.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\Length of string.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\Length of string.dll
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\refint\Length of string.dll
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\Length of string.pdb
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\Length of string.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Length of string\obj\Debug\net8.0\ref\Length of string.dll

@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Multiplication table\bin\Debug\net8.0\Multiplication table.exe
+C:\Users\HFGF\source\repos\into\Multiplication table\bin\Debug\net8.0\Multiplication table.deps.json
+C:\Users\HFGF\source\repos\into\Multiplication table\bin\Debug\net8.0\Multiplication table.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Multiplication table\bin\Debug\net8.0\Multiplication table.dll
+C:\Users\HFGF\source\repos\into\Multiplication table\bin\Debug\net8.0\Multiplication table.pdb
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\Multiplication table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\Multiplication table.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\Multiplication table.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\Multiplication table.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\Multiplication table.dll
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\refint\Multiplication table.dll
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\Multiplication table.pdb
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\Multiplication table.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Multiplication table\obj\Debug\net8.0\ref\Multiplication table.dll

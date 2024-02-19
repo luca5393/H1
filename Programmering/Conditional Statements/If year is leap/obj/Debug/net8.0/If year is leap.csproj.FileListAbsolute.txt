@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\If year is leap\bin\Debug\net8.0\If year is leap.exe
+C:\Users\HFGF\source\repos\into\If year is leap\bin\Debug\net8.0\If year is leap.deps.json
+C:\Users\HFGF\source\repos\into\If year is leap\bin\Debug\net8.0\If year is leap.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\If year is leap\bin\Debug\net8.0\If year is leap.dll
+C:\Users\HFGF\source\repos\into\If year is leap\bin\Debug\net8.0\If year is leap.pdb
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\If year is leap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\If year is leap.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\If year is leap.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\If year is leap.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\If year is leap.dll
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\refint\If year is leap.dll
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\If year is leap.pdb
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\If year is leap.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\If year is leap\obj\Debug\net8.0\ref\If year is leap.dll

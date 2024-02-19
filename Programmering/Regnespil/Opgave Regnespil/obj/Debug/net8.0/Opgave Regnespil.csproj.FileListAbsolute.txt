@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\bin\Debug\net8.0\Opgave Regnespil.exe
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\bin\Debug\net8.0\Opgave Regnespil.deps.json
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\bin\Debug\net8.0\Opgave Regnespil.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\bin\Debug\net8.0\Opgave Regnespil.dll
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\bin\Debug\net8.0\Opgave Regnespil.pdb
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\Opgave Regnespil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\Opgave Regnespil.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\Opgave Regnespil.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\Opgave Regnespil.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\Opgave Regnespil.dll
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\refint\Opgave Regnespil.dll
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\Opgave Regnespil.pdb
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\Opgave Regnespil.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Opgave Regnespil\obj\Debug\net8.0\ref\Opgave Regnespil.dll

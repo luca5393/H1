@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\If sorted ascending\bin\Debug\net8.0\If sorted ascending.exe
+C:\Users\HFGF\source\repos\into\If sorted ascending\bin\Debug\net8.0\If sorted ascending.deps.json
+C:\Users\HFGF\source\repos\into\If sorted ascending\bin\Debug\net8.0\If sorted ascending.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\If sorted ascending\bin\Debug\net8.0\If sorted ascending.dll
+C:\Users\HFGF\source\repos\into\If sorted ascending\bin\Debug\net8.0\If sorted ascending.pdb
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\If sorted ascending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\If sorted ascending.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\If sorted ascending.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\If sorted ascending.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\If sorted ascending.dll
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\refint\If sorted ascending.dll
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\If sorted ascending.pdb
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\If sorted ascending.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\If sorted ascending\obj\Debug\net8.0\ref\If sorted ascending.dll

@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Swap two numbers\bin\Debug\net8.0\Swap two numbers.exe
+C:\Users\HFGF\source\repos\into\Swap two numbers\bin\Debug\net8.0\Swap two numbers.deps.json
+C:\Users\HFGF\source\repos\into\Swap two numbers\bin\Debug\net8.0\Swap two numbers.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Swap two numbers\bin\Debug\net8.0\Swap two numbers.dll
+C:\Users\HFGF\source\repos\into\Swap two numbers\bin\Debug\net8.0\Swap two numbers.pdb
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\Swap two numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\Swap two numbers.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\Swap two numbers.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\Swap two numbers.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\Swap two numbers.dll
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\refint\Swap two numbers.dll
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\Swap two numbers.pdb
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\Swap two numbers.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Swap two numbers\obj\Debug\net8.0\ref\Swap two numbers.dll

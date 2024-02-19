@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Draw triangle\bin\Debug\net8.0\Draw triangle.exe
+C:\Users\HFGF\source\repos\into\Draw triangle\bin\Debug\net8.0\Draw triangle.deps.json
+C:\Users\HFGF\source\repos\into\Draw triangle\bin\Debug\net8.0\Draw triangle.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Draw triangle\bin\Debug\net8.0\Draw triangle.dll
+C:\Users\HFGF\source\repos\into\Draw triangle\bin\Debug\net8.0\Draw triangle.pdb
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\Draw triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\Draw triangle.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\Draw triangle.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\Draw triangle.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\Draw triangle.dll
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\refint\Draw triangle.dll
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\Draw triangle.pdb
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\Draw triangle.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Draw triangle\obj\Debug\net8.0\ref\Draw triangle.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Two 7s next to each other/1.0.0": {
+        "runtime": {
+          "Two 7s next to each other.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Two 7s next to each other/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

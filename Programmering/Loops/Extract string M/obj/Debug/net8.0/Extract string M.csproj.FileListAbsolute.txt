@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\Extract string M\bin\Debug\net8.0\Extract string M.exe
+C:\Users\HFGF\source\repos\into\Extract string M\bin\Debug\net8.0\Extract string M.deps.json
+C:\Users\HFGF\source\repos\into\Extract string M\bin\Debug\net8.0\Extract string M.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\Extract string M\bin\Debug\net8.0\Extract string M.dll
+C:\Users\HFGF\source\repos\into\Extract string M\bin\Debug\net8.0\Extract string M.pdb
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\Extract string M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\Extract string M.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\Extract string M.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\Extract string M.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\Extract string M.dll
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\refint\Extract string M.dll
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\Extract string M.pdb
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\Extract string M.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\Extract string M\obj\Debug\net8.0\ref\Extract string M.dll

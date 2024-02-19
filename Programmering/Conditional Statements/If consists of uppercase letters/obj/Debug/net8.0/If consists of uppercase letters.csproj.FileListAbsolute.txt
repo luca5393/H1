@@ -1,0 +1,14 @@
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\bin\Debug\net8.0\If consists of uppercase letters.exe
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\bin\Debug\net8.0\If consists of uppercase letters.deps.json
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\bin\Debug\net8.0\If consists of uppercase letters.runtimeconfig.json
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\bin\Debug\net8.0\If consists of uppercase letters.dll
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\bin\Debug\net8.0\If consists of uppercase letters.pdb
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\If consists of uppercase letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\If consists of uppercase letters.AssemblyInfoInputs.cache
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\If consists of uppercase letters.AssemblyInfo.cs
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\If consists of uppercase letters.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\If consists of uppercase letters.dll
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\refint\If consists of uppercase letters.dll
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\If consists of uppercase letters.pdb
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\If consists of uppercase letters.genruntimeconfig.cache
+C:\Users\HFGF\source\repos\into\If consists of uppercase letters\obj\Debug\net8.0\ref\If consists of uppercase letters.dll
