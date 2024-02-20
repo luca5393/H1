@@ -42,7 +42,7 @@ class Player
         if (remainingRerolls > 0)
         {
             Console.WriteLine($"Remaining rerolls: {remainingRerolls}");
-            Console.Write("Enter the indices of dice to reroll (e.g., 1 3 5): ");
+            Console.Write("Enter the position of dice to reroll (e.g., 1 3 5): ");
             string input = Console.ReadLine();
 
             string[] indices = input.Split(' ');
